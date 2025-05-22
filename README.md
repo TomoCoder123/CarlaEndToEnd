@@ -21,4 +21,8 @@ Instructions for installing CARLA and setting up the environment will be added h
 - Expandable to include throttle/brake and multi-agent scenarios
 - Extend to depth segmentation/image segmentation models
 
+##  Setup
+```
+cd opt/Carla
+./CarlaUE4.sh
 Stay tuned for updates!
