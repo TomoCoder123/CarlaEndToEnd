@@ -19,5 +19,6 @@ Instructions for installing CARLA and setting up the environment will be added h
 - End-to-end steering control from camera input
 - Modular pipeline for training/testing in CARLA
 - Expandable to include throttle/brake and multi-agent scenarios
+- Extend to depth segmentation/image segmentation models
 
 Stay tuned for updates!
