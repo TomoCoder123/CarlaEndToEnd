@@ -25,4 +25,5 @@ Instructions for installing CARLA and setting up the environment will be added h
 ```
 cd opt/Carla
 ./CarlaUE4.sh
+```
 Stay tuned for updates!
