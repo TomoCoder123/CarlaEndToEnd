@@ -4,7 +4,7 @@ This project explores building an end-to-end deep learning model to control a se
 
 ## Project Milestones
 
-- [ ] **Set up CARLA simulator** (download & install)
+- [x] **Set up CARLA simulator** (download & install)
 - [ ] **Install required Python packages** (e.g., PyTorch, TensorFlow/Keras, NumPy, OpenCV, etc.)
 - [ ] **Connect to CARLA and collect driving data** (camera images + vehicle state)
 - [ ] **Preprocess and store training data** (normalize images, define ROI, etc.)
