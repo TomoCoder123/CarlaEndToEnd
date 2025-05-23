@@ -24,7 +24,13 @@ Instructions for installing CARLA and setting up the environment will be added h
 ##  Setup
 ```
 source ~/.bashrc
+
+```
+```
 cd ~/opt/Carla
 ./CarlaUE4.sh
 ```
+### Other Resources
+https://leaderboard.carla.org/get_started_v2_1/
+
 Stay tuned for updates!
