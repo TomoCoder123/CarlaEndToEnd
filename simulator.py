@@ -3,6 +3,7 @@ import random
 client = carla.Client('localhost')
 world = client.get_world()
 client.load_world('Town12') #or ./config.py --map Town05 
+client.set_timeout(80)
 
 # Retrieve the spectator object
 spectator = world.get_spectator()
