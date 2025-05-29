@@ -2,7 +2,12 @@ import carla
 import random
 client = carla.Client('localhost')
 world = client.get_world()
-client.load_world('Town12') #or ./config.py --map Town05 
+print(world)
+print(client.get_available_maps())
+
+client.load_world('Town12')
+
+print("Switching")
 
 # Retrieve the spectator object
 spectator = world.get_spectator()
