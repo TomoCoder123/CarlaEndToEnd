@@ -4,6 +4,7 @@ client = carla.Client('localhost')
 world = client.get_world()
 print(world)
 print(client.get_available_maps())
+client.set_timeout(80)
 
 client.load_world('Town12')
 
